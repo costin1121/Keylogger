@@ -1,5 +1,7 @@
 # Keylogger
-A keylogger written in Python with report on email
+A keylogger written in Python with report on email.
+
+
 It takes three parameters email, email password, interval
 
 
